@@ -6,13 +6,10 @@ Soy Joaquin! Soy front-end Developer:computer:, buscando mejorar dia a dia. Mis 
 
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-joaquin-hernandez-durand-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-hernandez-durand-855a77238)
+[![Linkedin](https://img.shields.io/badge/-joaquinHernandezDurand-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-hernandez-durand-855a77238)
 [![Instagram](https://img.shields.io/badge/-JoaquinHernandez-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joacohernandez1/)
 [![Gmail](https://img.shields.io/badge/-joacohernandez157-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joacohernandez157@gmail.com)
 
-
-<!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Algunas cosas en las que estoy trabajando: 
 * Aprender REACT.js:computer: Development
